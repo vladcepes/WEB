@@ -1,0 +1,5 @@
+--favicon je mala ikonica na site-u, kreira se na site www.favicon.cc
+--site za boje colorhunt.co/c/14832
+--ako zelis da sakrijes neki element koristis visibility: hidden;-on ce sakriti taj element ali ce ostati na istoj poziciji
+--ako zelis da uklonis element koristis display: none;- on ce izbrisati element i promeniti redosled pozicija elemenata 
+--komandom <span></span>  mozemo dodati funkciju na primer jednog dela p 
